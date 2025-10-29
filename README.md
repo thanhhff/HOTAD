@@ -2,7 +2,8 @@
 
 This repository is the official implementation of 'Hierarchical Local-Global Fusion for One-stage Open-vocabulary Temporal Action Detection' by Trung Thanh Nguyen, Yasutomo Kawanishi, Takahiro Komamizu, and Ichiro Ide.
 
-Our paper has been accepted for publication in ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM).
+- Our paper has been accepted for publication in ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM).
+- DOI: https://dx.doi.org/10.1145/3773986
 
 For details regarding the environment and base implementation, please refer to ActionFormer:
 https://github.com/happyharrycn/actionformer_release
